@@ -13,12 +13,12 @@ Return the ASCII decimal code when Charachter are provided.
 ![Colour Cipher](images/hexahue-alphabet.png)
 
 This is a CLI for decrypting Colour Cipher.Each colour is recognised with their initials  :-
-** B:Blue, C:Cyan, G:Green, P:pink, R:Red, Y:Yellow **
+**B:Blue, C:Cyan, G:Green, P:pink, R:Red, Y:Yellow**
 
 ## Colour_Cipher_Encrypt
-This is the reverse of the Colour_Cipher_Decrypt CLI.You provide the code and that gives you the word.the input code has to be in all CAPS as the program can break if not like PRGCBY.If the code does not exists then it will return "invalid input"
+This is the reverse of the Colour_Cipher_Decrypt CLI.You provide the code and that gives you the word.the input code has to be in **all CAPS** as the program can break if not like **PRGCBY**.If the code does not exists then it will return **"invalid input"**
 
-###### * Currently this code only returns alphabet and not numbers as shown in the image *
+###### *Currently this code only returns alphabet and not numbers as shown in the [Colour Cipher](images/hexahue-alphabet.png)*
 
 ## CCE-f : Colour cipher encryption and decryption in one program and GUI
 This part i havent yet started coding but it will be GUI 
