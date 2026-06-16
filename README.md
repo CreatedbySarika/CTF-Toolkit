@@ -20,5 +20,8 @@ This is the reverse of the Colour_Cipher_Decrypt CLI.You provide the code and th
 
 ###### *Currently this code only returns alphabet and not numbers as shown in the [Colour Cipher](images/hexahue-alphabet.png)*
 
+## Hex_E&D -> Hex encryption and decryption
+uses python in-built funtion of **bytes.fromhex()** & **bytes.hex()** to decode.
+
 ## CCE-f : Colour cipher encryption and decryption in one program and GUI
 This part i havent yet started coding but it will be GUI 
